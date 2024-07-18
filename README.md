@@ -1,6 +1,6 @@
-Este projeto é uma aplicação web desenvolvida com Vue.js e Tailwind CSS. Abaixo estão as principais tecnologias utilizadas, as rotas implementadas e um guia para iniciar o projeto.
+Este projeto é uma aplicação web desenvolvida com Vue.js e Tailwind CSS. Abaixo estão as principais tecnologias utilizadas, as rotas implementadas e um guia para iniciar o projeto.<br /><br />
 
-Tecnologias Utilizadas <br /><br /><br />
+Tecnologias Utilizadas <br /><br />
 
 
 Vue.js (v2) - Framework JavaScript para construção de interfaces de usuário.
@@ -11,10 +11,10 @@ Axios - Cliente HTTP para realizar requisições à API.
 
 Tailwind CSS - Framework de CSS utilitário para estilização.
 
-Jest - Framework de testes para garantir a qualidade do código.
+Jest - Framework de testes para garantir a qualidade do código. <br /><br />
 
 
-Rotas Implementadas
+Rotas Implementadas <br /><br />
 
 
 / - Página inicial que exibe uma lista de filmes populares. 
@@ -23,10 +23,10 @@ Rotas Implementadas
 
 /results - Página que exibe os resultados da pesquisa. 
 
-/movie/:id - Página de detalhes, exibindo informações detalhadas e elenco.
+/movie/:id - Página de detalhes, exibindo informações detalhadas e elenco. <br /><br />
 
 
-Passo-a-passo para Inicializar o Projeto
+Passo-a-passo para Inicializar o Projeto <br /><br />
 
 Clone o repositório: git clone https://github.com/wesleyberger/pilar.git
 
