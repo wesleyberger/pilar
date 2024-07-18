@@ -1,6 +1,8 @@
 Este projeto é uma aplicação web desenvolvida com Vue.js e Tailwind CSS. Abaixo estão as principais tecnologias utilizadas, as rotas implementadas e um guia para iniciar o projeto.
 
 Tecnologias Utilizadas
+
+
 Vue.js (v2) - Framework JavaScript para construção de interfaces de usuário.
 
 Vue Router - Gerenciamento de rotas para navegação entre páginas.
@@ -11,10 +13,13 @@ Tailwind CSS - Framework de CSS utilitário para estilização.
 
 Jest - Framework de testes para garantir a qualidade do código.
 
+
 Rotas Implementadas
 / - Página inicial que exibe uma lista de filmes populares. /search - Página de pesquisa para buscar por termos específicos. /results - Página que exibe os resultados da pesquisa. /movie/:id - Página de detalhes, exibindo informações detalhadas e elenco.
 
+
 Passo-a-passo para Inicializar o Projeto
+
 Clone o repositório: git clone https://github.com/wesleyberger/pilar.git
 
 Navegue até o diretório do projeto: cd webapp
