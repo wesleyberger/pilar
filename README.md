@@ -15,7 +15,15 @@ Jest - Framework de testes para garantir a qualidade do código.
 
 
 Rotas Implementadas
-/ - Página inicial que exibe uma lista de filmes populares. /search - Página de pesquisa para buscar por termos específicos. /results - Página que exibe os resultados da pesquisa. /movie/:id - Página de detalhes, exibindo informações detalhadas e elenco.
+
+
+/ - Página inicial que exibe uma lista de filmes populares. 
+
+/search - Página de pesquisa para buscar por termos específicos. 
+
+/results - Página que exibe os resultados da pesquisa. 
+
+/movie/:id - Página de detalhes, exibindo informações detalhadas e elenco.
 
 
 Passo-a-passo para Inicializar o Projeto
