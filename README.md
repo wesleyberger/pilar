@@ -1,4 +1,3 @@
-Projeto WebApp
 Este projeto é uma aplicação web desenvolvida com Vue.js e Tailwind CSS. Abaixo estão as principais tecnologias utilizadas, as rotas implementadas e um guia para iniciar o projeto.
 
 Tecnologias Utilizadas
