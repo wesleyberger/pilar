@@ -1,6 +1,6 @@
 Este projeto é uma aplicação web desenvolvida com Vue.js e Tailwind CSS. Abaixo estão as principais tecnologias utilizadas, as rotas implementadas e um guia para iniciar o projeto.
 
-Tecnologias Utilizadas <br />
+Tecnologias Utilizadas <br /><br /><br />
 
 
 Vue.js (v2) - Framework JavaScript para construção de interfaces de usuário.
