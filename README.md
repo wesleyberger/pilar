@@ -2,10 +2,15 @@ Este projeto é uma aplicação web desenvolvida com Vue.js e Tailwind CSS. Abai
 
 Tecnologias Utilizadas
 Vue.js (v2) - Framework JavaScript para construção de interfaces de usuário.
+
 Vue Router - Gerenciamento de rotas para navegação entre páginas.
+
 Axios - Cliente HTTP para realizar requisições à API.
+
 Tailwind CSS - Framework de CSS utilitário para estilização.
+
 Jest - Framework de testes para garantir a qualidade do código.
+
 Rotas Implementadas
 / - Página inicial que exibe uma lista de filmes populares. /search - Página de pesquisa para buscar por termos específicos. /results - Página que exibe os resultados da pesquisa. /movie/:id - Página de detalhes, exibindo informações detalhadas e elenco.
 
