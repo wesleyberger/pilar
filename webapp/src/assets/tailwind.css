@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.new-class {
+    background-image: linear-gradient(to right, rgba(31.5, 31.5, 94.5, 1) calc((50vw - 170px) - 340px), rgba(31.5, 31.5, 94.5, 0.84) 50%, rgba(31.5, 31.5, 94.5, 0.84) 100%);
+}
+.h-vh-70 {
+    height: 70vh;
+}
+.h-photo- {
+    height: 336px;
+}
