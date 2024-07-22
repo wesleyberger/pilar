@@ -1,6 +1,6 @@
 Este projeto é uma aplicação web desenvolvida com Vue.js e Tailwind CSS. Abaixo estão as principais tecnologias utilizadas, as rotas implementadas e um guia para iniciar o projeto.<br /><br />
 
-cesso do webapp via Github Pages:
+Acesso do webapp via Github Pages:
 
 https://wesleyberger.github.io/pilarwebtest<br /><br />
 
